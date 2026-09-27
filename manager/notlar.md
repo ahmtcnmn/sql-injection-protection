@@ -1,0 +1,1 @@
+Ters SSH tünel komutu : ssh -R 9000:localhost:8080 -p 22667 root@178.210.161.221
